@@ -1,0 +1,21 @@
+EMP_ID,EMP_Name,EMP_Department,EMP_Position,EMP_Salary,EMP_JoinDate
+1,Ram Sharma,IT,Software Developer,"50,000",12/02/2021
+2,Vishnu Singh,Marketing ,Marketing Coordinator,"45,000",01/03/2020
+3,Ayushi Mishra,Finance,Accountant,"30,000",09/09/2021
+4,Alok Yadav,IT,Network Administrator ,"35,000",07/05/2022
+5,Asin Khan,Finance,Financial Analyst,"25,000",11/12/2022
+6,Yukti Sen,IT,Data Scientist,"75,000",13/01/2023
+7,Ranvijay Malviya,HR,Human Resource Specialist,"40,000",28/05/2022
+8,Prem Gupta,Marketing ,Graphic Designer,"60,000",08/07/2023
+9,Vipin Sahu,IT,Software Developer,"55,000",02/09/2022
+10,Rupesh Dutt,IT,Solutions Architect,"80,000",16/09/2021
+11,Rajeev Ranjan,HR,Recruitment Specialist,"67,000",27/03/2020
+12,Ankita Tiwari,Marketing ,Graphic Designer,"65,000",09/04/2021
+13,Nishi Shah,Finance,Senior Accountant ,"55,000",06/08/2022
+14,Kabir Mehra,Finance,Finance Director,"90,000",9/11/2022
+15,Sushant Singh,IT,System Analyst ,"77,000",30/10/2023
+16,Khushi Agrawal,Finance,Portfolio Manager,"28,000",15/03/2023
+17,Sagar Soni,Marketing ,Event Manager,"58,000",17/05/2021
+18,Shiv Patel,Finance,Budget Analyst,"35,000",06/06/2022
+19,Shweta Singh,IT,Database Administrator,"95,000",08/11/2019
+20,Kavit Das,IT,Software Developer,"45,000",25/12/2021
